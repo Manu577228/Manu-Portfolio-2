@@ -51,7 +51,7 @@
     margin: 2rem auto;
 }
 
-@media screen and (max-width: 740px) {
+@media screen and (max-width: 600px) {
     .card-container {
         max-width: 90%;
         margin: auto;

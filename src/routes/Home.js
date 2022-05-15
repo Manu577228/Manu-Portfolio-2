@@ -8,8 +8,8 @@ function Home() {
     return (
         <div>
             <Navbar />
-            <HeroImg />
-            <Work />
+            <HeroImg style={{paddingTop: '12rem'}}/>
+            <Work  />
             <Footer/>
         </div>
     )
